@@ -1,2 +1,4 @@
-# devminor
-Repository for everything web minor 2016
+# Repository Minor Web Development
+Fons Hettema
+
+<a target="_blank" href="http://strexx.github.io/devminor/">Onderzoek javascript frameworks</a>
